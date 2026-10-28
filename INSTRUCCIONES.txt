@@ -1,0 +1,18 @@
+FIRMA GRUPO INOX — INSTALACIÓN
+
+1. Vista previa: abre firma_vista_previa_local.html en un navegador. Todas las imágenes están en la misma carpeta.
+2. Alojamiento: sube todas las imágenes de esta carpeta a https://www.grupoinox.com.bo/firmas/ (o a otro servidor HTTPS estable). Si cambias la ruta, cambia esa URL en firma_para_alojar_en_web.html.
+3. Abre firma_para_alojar_en_web.html desde un servidor web (mejor que file://), verifica que se visualizan todas las imágenes.
+4. Selecciona la firma visual renderizada en Chrome, copia y pega en Gmail > Configuración > Ver todos los ajustes > Firma. Guarda.
+5. Prueba en Gmail web, Gmail móvil y Outlook. Algunos clientes no reproducen GIFs; mostrarán el primer fotograma.
+6. El diseño fiel usa 883px de ancho y puede desplazarse horizontalmente en móviles; el editor Gmail descarta CSS responsive y no se puede garantizar una reorganización vertical. Para una versión móvil verdaderamente responsive se requeriría otra disposición de contenido y verificarla por cliente.
+
+ENLACES ACTIVOS
+Celular: tel:+59168113326
+Fijo: tel:+59122306447
+Correo: mailto:info@grupoinox.com.bo
+Web: https://www.grupoinox.com.bo/
+Facebook, LinkedIn e Instagram: enlaces suministrados.
+Sucursales y dirección: búsquedas de Google Maps provisionales, NO fichas de sede verificadas.
+
+NOTA: No se garantiza que Gmail conserve tablas y vínculos exactamente al pegar; siempre enviar prueba. El archivo HTML no inserta por sí solo la firma en la cuenta Gmail.
